@@ -24,11 +24,3 @@ Failed Tests (23):
   lldb-shell :: Watchpoint/ExpressionLanguage.test
 
 
-Failed Tests (1):
-  test-suite :: Fortran/gfortran/regression/gomp/gfortran-regression-compile-regression__gomp__linear-5_f90.test
-
-
-Failed Tests (1):
-  test-suite :: Fortran/gfortran/regression/gomp/gfortran-regression-compile-regression__gomp__linear-5_f90.test
-
-
