@@ -1,4 +1,4 @@
-Failed Tests (23):
+Failed Tests (12):
   lldb-shell :: ObjectFile/MachO/section-overflow-binary.test
   lldb-shell :: Subprocess/clone-follow-child-wp.test
   lldb-shell :: Subprocess/clone-follow-parent-wp.test
@@ -9,17 +9,6 @@ Failed Tests (23):
   lldb-shell :: SymbolFile/DWARF/anon_class_w_and_wo_export_symbols.ll
   lldb-shell :: SymbolFile/DWARF/clang-ast-from-dwarf-unamed-and-anon-structs.cpp
   lldb-shell :: SymbolFile/DWARF/clang-gmodules-type-lookup.c
-  lldb-shell :: SymbolFile/DWARF/debug-types-expressions.test
-  lldb-shell :: SymbolFile/DWARF/dwarf5-lazy-dwo.c
-  lldb-shell :: SymbolFile/DWARF/dwo-debug-file-search-path-symlink-relative-compdir.c
-  lldb-shell :: SymbolFile/DWARF/dwo-debug-file-search-paths-dwoname-absolute-compdir.c
-  lldb-shell :: SymbolFile/DWARF/dwo-debug-file-search-paths-filename-only-absolute-compdir.c
-  lldb-shell :: SymbolFile/DWARF/dwo-debug-file-search-paths-filename-only-relative-compdir.c
-  lldb-shell :: SymbolFile/DWARF/dwo-debug-file-search-paths-relative-compdir.c
-  lldb-shell :: SymbolFile/DWARF/dwo-missing-error.test
-  lldb-shell :: SymbolFile/DWARF/dwo-relative-filename-only-binary-dir.c
-  lldb-shell :: SymbolFile/DWARF/dwo-static-data-member-access.test
-  lldb-shell :: SymbolFile/DWARF/split-dwarf-expression-eval-bug.cpp
   lldb-shell :: SymbolFile/NativePDB/simple-types.cpp
   lldb-shell :: Watchpoint/ExpressionLanguage.test
 
