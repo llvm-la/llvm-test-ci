@@ -127,7 +127,7 @@ jobs:
       
       - name: Push changes
         if: steps.check.outputs.COMMITTED == 'true'
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
