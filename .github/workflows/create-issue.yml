@@ -36,7 +36,7 @@ jobs:
       - name: Create an issue
         id: issue
         if: steps.check.outputs.FAILED == 'true'
-        uses: actions-cool/issues-helper@v3
+        uses: actions-cool/issues-helper@v3.7.6
         with:
           actions: 'create-issue'
           token: ${{ secrets.CI_ISSUE_TOKEN }}
@@ -46,7 +46,7 @@ jobs:
       
       - name: Create comment
         id: comment
-        uses: actions-cool/issues-helper@v3
+        uses: actions-cool/issues-helper@v3.7.6
         with:
           actions: 'create-comment'
           token: ${{ secrets.CI_ISSUE_TOKEN }}
