@@ -19,3 +19,7 @@ Failed Tests (1):
   test-suite :: tools/test/alloc_mem.test
 
 
+Failed Tests (1):
+  test-suite :: tools/test/alloc_mem.test
+
+
