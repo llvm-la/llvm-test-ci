@@ -1,8 +1,4 @@
-Failed Tests (15):
-  lldb-shell :: Commands/command-dil-diagnostics.test
-  lldb-shell :: Commands/command-module-hook-fire.test
-  lldb-shell :: Commands/process-attach-dummy.test
-  lldb-shell :: ObjectFile/MachO/section-overflow-binary.test
+Failed Tests (11):
   lldb-shell :: Subprocess/clone-follow-child-wp.test
   lldb-shell :: Subprocess/clone-follow-parent-wp.test
   lldb-shell :: Subprocess/fork-follow-child-wp.test
