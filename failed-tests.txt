@@ -12,3 +12,11 @@ Failed Tests (11):
   lldb-shell :: Watchpoint/ExpressionLanguage.test
 
 
+Failed Tests (1):
+  test-suite :: SingleSource/Regression/C/Regression-C-uint64_to_float.test
+
+
+Failed Tests (1):
+  test-suite :: SingleSource/Regression/C/Regression-C-uint64_to_float.test
+
+
